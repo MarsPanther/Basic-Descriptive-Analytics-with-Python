@@ -7,7 +7,7 @@
 
 This is an exmple of how to conduct basic Exploratory Data Analysis, or EDA, is an important step in any Data Analysis or Data Science project. EDA is the process of investigating the dataset to discover patterns, and anomalies (outliers), and form hypotheses based on our understanding of the dataset.
 
-This was conducted using as Python by the pandas library.
+This was conducted using as Python by the pandas library. Using a monthly Stock market dataset of Five companies **IBMStock,GEStock, ProcterGambleStock, CocaColaStock, BoeingStock** from 1970 
 
 
 
